@@ -99,7 +99,7 @@ sections:
       consectetur lobortis.
     actions:
       - label: Get Started
-        url: /docs/getting-started/installation
+        url: .google.com.vn
         style: primary
 template: advanced
 ---
