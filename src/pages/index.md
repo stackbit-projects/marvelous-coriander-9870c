@@ -101,5 +101,6 @@ sections:
       - label: Get Started
         url: .google.com.vn
         style: primary
+        new_window: true
 template: advanced
 ---
